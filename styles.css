@@ -1,0 +1,32 @@
+.card {
+	display: inline-block;
+	width: 210px;
+	height: 370px;
+	position: relative;
+	border: 1px solid black;
+	text-align: center;
+	line-height: 80px;
+	border-radius: 5px;
+}
+
+.card-header {
+  width: 50px;
+    height: 100px;
+}
+
+p {
+  font-size: 400%;
+}
+.card-footer {
+  width: 50px;
+    height: 100px;
+   float: right;
+   margin-right: 5px;
+}
+img {
+    width:100%;
+    height:auto;
+    padding: 2px;
+}
+
+
